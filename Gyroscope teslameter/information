@@ -2,3 +2,4 @@ In the folder you can see a solve.py and analyze.py file, which contain the main
 and solved for the electric potential forming a scalar field. Then in analyze.py the current density vector field is calculated from the electric potential field and further 
 calculations regarding power loss and heat loss are done. Other files in the folders contain auxiliary code with functions/input parameters and also the magnetic field pattern in
 form of an excel file to ensure that the simulation gives accurate results.
+In the folder "excel-auswertung" you can also see some of the codes used to automate data analysis and hence simplify the experimental process significantly.
