@@ -1,4 +1,4 @@
 In the folder you can see a solve.py and analyze.py file, which contain the main part of the simulation. In solve.py the equation system for all the elements on the disc is set up
 and solved for the electric potential forming a scalar field. Then in analyze.py the current density vector field is calculated from the electric potential field and further 
 calculations regarding power loss and heat loss are done. Other files in the folders contain auxiliary code with functions/input parameters and also the magnetic field pattern in
-form of an excel file.
+form of an excel file to ensure that the simulation gives accurate results.
