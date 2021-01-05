@@ -1,2 +1,2 @@
 # Maker-portfolio
-In the following file you can see the codes used for the theoretical simulations in the projects.
+In the following folders you can see the codes and other files used for the theoretical simulations in the projects.
