@@ -3,4 +3,7 @@ Hence, I used a different simulation which is in the "Parameters" folder. Here t
 whistling phenomenon depending on different parameters (radius, length, corrugation width).
 
 In the "Resonance frequency" folder there are Pyhton scripts which output the dependance of the resonant frequency of the component again on different parameters (radius, length,
-corrugation width). The 
+corrugation width). The folder "Panzer pipes" contain the same as the "Parameters" folder only for a component where the material and corrugation shape was different from my normal 
+experimental series. This was just to test the theory limits.
+
+The folder "Doppler" contains a Python file simulating the Doppler effect observed when the whistling phenomenon occurs and the viewer is not on the rotational axis of the component.
