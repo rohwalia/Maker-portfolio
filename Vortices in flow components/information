@@ -1,4 +1,6 @@
 In the folder you can see the folder "Vortex frequency" which contains Python files showing different stages of my smooth pipe flow theory. In the end I decided to use CFD.
-Hence, I used a different simulation which is in the "Parameter" folder. Here there are Pyhton files simulating the dependence of the angular velocity needed to achieve this
+Hence, I used a different simulation which is in the "Parameters" folder. Here there are Pyhton files simulating the dependence of the angular velocity needed to achieve this
 whistling phenomenon depending on different parameters (radius, length, corrugation width).
 
+In the "Resonance frequency" folder there are Pyhton scripts which output the dependance of the resonant frequency of the component again on different parameters (radius, length,
+corrugation width). The 
