@@ -1,1 +1,2 @@
-
+The code consists of two parts: one where all the images are downloaded form the websites with the webcrawler and in the other one where YOLO is used to analyze them and ouput a
+tensor. The first part can be found in the folder "Code" and the second part in the folder "darkflow-master". There are also some algorithm diagrams showing how the codes work.
