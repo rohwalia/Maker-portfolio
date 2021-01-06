@@ -10,4 +10,4 @@ The folder "Doppler" contains a Python file simulating the Doppler effect observ
 component. Files in "Flow over corrugation" are just a failed attempt to approximate the corrugations as a series of diffusers and compressors. After that I used CFD. The 
 simulation results are then in excel files in "Output".
 
-You can also see the Arduino code I used in the folder "sound-tube_sensor code".
+You can also see the Arduino code I used for the blowing setup in the folder "sound_tube_control_code".
